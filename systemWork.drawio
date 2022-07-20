@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T09:11:40.851Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="BKWBIwaEDfe6bBrqsTev" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-20T09:12:38.926Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="s068aFIlRPNXVk6bHwEh" version="17.5.0" type="github">
   <diagram id="eeHc00onXk_6_axVfq1E" name="Page-1">
     <mxGraphModel dx="1102" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -87,14 +87,8 @@
         <mxCell id="JeqD6YOxb1yY-aTv0xNF-35" value="后评估" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBorderColor=none;fontSize=16;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="840" y="450" width="280" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="JeqD6YOxb1yY-aTv0xNF-36" value="1. 评价鉴定设计质量（鉴定后180天执行）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBorderColor=none;fontSize=14;" vertex="1" parent="JeqD6YOxb1yY-aTv0xNF-35">
-          <mxGeometry y="30" width="280" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JeqD6YOxb1yY-aTv0xNF-37" value="2. 分析产品质量趋势。" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBorderColor=none;fontSize=14;" vertex="1" parent="JeqD6YOxb1yY-aTv0xNF-35">
-          <mxGeometry y="60" width="280" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JeqD6YOxb1yY-aTv0xNF-38" value="3. 更新网上问题案例手册（月度例行）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBorderColor=none;fontSize=14;" vertex="1" parent="JeqD6YOxb1yY-aTv0xNF-35">
-          <mxGeometry y="90" width="280" height="30" as="geometry" />
+        <mxCell id="JeqD6YOxb1yY-aTv0xNF-36" value="1. 评价鉴定设计质量（鉴定后180天执行）&#xa;2. 分析产品质量趋势。&#xa;3. 更新网上问题案例手册（月度例行）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBorderColor=none;fontSize=14;" vertex="1" parent="JeqD6YOxb1yY-aTv0xNF-35">
+          <mxGeometry y="30" width="280" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
