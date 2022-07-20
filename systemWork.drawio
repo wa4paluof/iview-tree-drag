@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T09:09:27.250Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="F7JJyXt_dkSlalaS5p-v" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-20T09:11:40.851Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="BKWBIwaEDfe6bBrqsTev" version="17.5.0" type="github">
   <diagram id="eeHc00onXk_6_axVfq1E" name="Page-1">
     <mxGraphModel dx="1102" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -63,9 +63,10 @@
         <mxCell id="JeqD6YOxb1yY-aTv0xNF-8" value="发布阶段" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="760" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JeqD6YOxb1yY-aTv0xNF-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;dashed=1;fontSize=11;endArrow=diamond;endFill=0;" edge="1" parent="1" source="JeqD6YOxb1yY-aTv0xNF-10" target="JeqD6YOxb1yY-aTv0xNF-35">
+        <mxCell id="JeqD6YOxb1yY-aTv0xNF-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;fontSize=11;endArrow=diamond;endFill=0;" edge="1" parent="1" source="JeqD6YOxb1yY-aTv0xNF-10" target="JeqD6YOxb1yY-aTv0xNF-35">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="950" y="440" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JeqD6YOxb1yY-aTv0xNF-10" value="生命周期管理" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="1">
@@ -80,7 +81,7 @@
         <mxCell id="JeqD6YOxb1yY-aTv0xNF-29" value="鉴定测试" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBorderColor=none;fontSize=16;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="500" y="450" width="280" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="JeqD6YOxb1yY-aTv0xNF-30" value="负责鉴定测试的技术把关。具体如下：&#xa;1." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBorderColor=none;fontSize=14;" vertex="1" parent="JeqD6YOxb1yY-aTv0xNF-29">
+        <mxCell id="JeqD6YOxb1yY-aTv0xNF-30" value="负责鉴定测试的技术把关。具体如下：&#xa;1. 测试策略制定或评审。&#xa;2. 测试设计评审。&#xa;3. 评审问题修改情况检查。" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBorderColor=none;fontSize=14;" vertex="1" parent="JeqD6YOxb1yY-aTv0xNF-29">
           <mxGeometry y="30" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="JeqD6YOxb1yY-aTv0xNF-35" value="后评估" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBorderColor=none;fontSize=16;strokeColor=default;" vertex="1" parent="1">
