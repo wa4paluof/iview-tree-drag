@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T11:10:49.242Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="rvaOfQtGmDMOeSUlxS2f" version="17.5.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-20T11:22:53.001Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="R8QPvjKMn9QlzLh-Nlk_" version="17.5.0" type="github" pages="2">
   <diagram id="eeHc00onXk_6_axVfq1E" name="TSE工作">
-    <mxGraphModel dx="1102" dy="614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="994" dy="455" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,7 +85,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JeqD6YOxb1yY-aTv0xNF-29" value="鉴定测试" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBorderColor=none;fontSize=16;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="500" y="440" width="280" height="120" as="geometry" />
+          <mxGeometry x="500" y="440" width="280" height="120" as="geometry">
+            <mxRectangle x="500" y="440" width="91" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JeqD6YOxb1yY-aTv0xNF-30" value="负责鉴定测试的技术把关。具体如下：&#xa;1. 测试策略制定或评审。&#xa;2. 测试设计评审。&#xa;3. 评审问题修改情况检查。" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBorderColor=none;fontSize=14;whiteSpace=wrap;" vertex="1" parent="JeqD6YOxb1yY-aTv0xNF-29">
           <mxGeometry y="30" width="280" height="90" as="geometry" />
@@ -122,6 +124,9 @@
         </mxCell>
         <mxCell id="BR2zI3KA0C5TkDK85_fS-2" value="1. 输出技术文档，培训课程。&#xa;2. 输出研究报告。&#xa;3. 提交专利。" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBorderColor=none;fontSize=14;whiteSpace=wrap;" vertex="1" parent="BR2zI3KA0C5TkDK85_fS-1">
           <mxGeometry y="30" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="n8Z9LuYOW2J51Nd3lvsQ-1" value="TSE工作梳理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="481" y="279" width="296" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
